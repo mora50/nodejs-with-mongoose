@@ -22,7 +22,10 @@ npm install
 npm run dev
 ```
 
-2) API url: ```sh localhost:3001/api/products```
+2) API url: 
+```sh
+ localhost:3001/api/products
+ ```
 
 3) To test the CRUD, just pass the json proprietes as this:
 
