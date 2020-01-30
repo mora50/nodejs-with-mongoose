@@ -4,9 +4,10 @@ A simple CRUD with mongoose and nodeJS
 
 ## How to install
 
-1) You will need mongoDB or Docker 
+1) You will need mongoDB
 ```bash
 https://www.mongodb.com/
+
 ```
 
 2) Install with npm
