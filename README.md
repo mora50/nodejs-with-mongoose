@@ -17,7 +17,7 @@ npm install
 
 ## How to run
 
-1)Run the project
+1) Run the project
 ```sh
 npm run dev
 ```
